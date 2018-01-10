@@ -10,6 +10,5 @@
   * *Discrete Fourier Transform* con un segnale complesso (**non** centrato su una frequenza/bin)
   * *Discrete Fourier Transform* con un segnale reale (centrato su una frequenza/bin)
   * *Discrete Fourier Transform* con un segnale reale (**non** centrato su una frequenza/bin)
-  * Ruolo dei parametri (*window size*, *bin size*, risoluzione temporale, risoluzione frequenziale)
-  * Finestratura del segnale - errori e approssimazioni
-  * *Zero-padding*
+
+![whiteboard 1](./BN_FDD_CSEDSM_20180110_1.jpg)
