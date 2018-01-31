@@ -8,3 +8,5 @@
   * Ruolo dei parametri (*window size*, *bin size*, risoluzione temporale, risoluzione frequenziale)
   * Finestratura del segnale - errori e approssimazioni
   * *Zero-padding*
+
+![whiteboard](./BN_FDD_CSEDSM_20180124_1.jpg)
