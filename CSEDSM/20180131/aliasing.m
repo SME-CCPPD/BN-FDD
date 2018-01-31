@@ -1,16 +1,3 @@
-# Lezione del 31 gennaio 2018
-
-## Argomenti
-
-* Introduzione alla scomposizione in serie di Fourier
-  * Ruolo dei parametri (*window size*, *bin size*, risoluzione temporale, risoluzione frequenziale)
-  * Finestratura del segnale - errori e approssimazioni
-  * *Zero-padding*
-
-## Aliasing
-
-[aliasing.m](./aliasing.m)
-```matlab
 fc1 = 100;
 fc2 = 10000;
 pc1 = 1/fc1;
@@ -41,5 +28,3 @@ axis([-0.1 0.1 -1.1 1.1])
 hold off
 
 print('aliasing.jpg', '-djpeg');
-```
-![aliasing](./aliasing.jpg)
