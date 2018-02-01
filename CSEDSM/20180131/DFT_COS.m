@@ -5,7 +5,8 @@ dur = 2;
 t = [-dur/2: pc: dur/2-pc];
 f = 100;
 w = f*2*pi;
-y = cos(w*t);
+phi = pi/7;
+y = cos(w*t+phi);
 
 binSize = 1;
 F = [-fc/2:binSize:fc/2-binSize];
