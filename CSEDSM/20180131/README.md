@@ -46,7 +46,7 @@ print('aliasing.jpg', '-djpeg');
 ```
 ![aliasing](./aliasing.jpg)
 
-##Somma trigonometrica
+## Somma trigonometrica
 
 [somma_trig.m](./somma_trig.m)
 ```matlab
