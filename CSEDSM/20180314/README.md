@@ -8,6 +8,7 @@
   * *Zero-padding*
 
 ## DFT di un campione
+
 [DFT_E1.m](./DFT_E1.m)
 ````matlab
 
@@ -44,11 +45,10 @@ hold off
 ```
 ![DFT_E1](./DFT_E1.jpg)
 
-##DFT di una porzione del campione
+## DFT di una porzione del campione
 
 [DFT_E2.m](./DFT_E2.m)
 ```matlab
-
 clear all
 close all
 
