@@ -1,4 +1,4 @@
-# Lezione del 14 marzo 2018
+# Lezione del 31 gennaio 2018
 
 ## Argomenti
 
@@ -9,9 +9,8 @@
 
 ## DFT di un campione
 
-[DFT_E1.m](./DFT_E1.m)
-````matlab
-
+[aliasing.m](./aliasing.m)
+```matlab
 clear all
 close all
 
@@ -89,7 +88,6 @@ plot(F(1:size(dft, 1),1), dBdft);
 
 [DFT_E3.m](./DFT_E3.m)
 ```matlab
-
 clear all
 close all
 
@@ -130,3 +128,4 @@ subplot(2, 1, 2)
 plot(F(1:size(dft, 1), 1), dBdft);
 ```
 ![DFT_E3](./DFT_E3.jpg)
+
