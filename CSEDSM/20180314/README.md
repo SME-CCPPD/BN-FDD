@@ -8,6 +8,7 @@
   * *Zero-padding*
 
 ## DFT di un campione
+[DFT_E1.m](./DFT_E1.m)
 ````matlab
 
 clear all
@@ -44,6 +45,8 @@ hold off
 ![DFT_E1](./DFT_E1.jpg)
 
 ##DFT di una porzione del campione
+
+[DFT_E2.m](./DFT_E2.m)
 ```matlab
 
 clear all
@@ -83,6 +86,8 @@ plot(F(1:size(dft, 1),1), dBdft);
 ![DFT_E2](./DFT_E2.jpg)
 
 ## DFT con *finestra di Hann*
+
+[DFT_E3.m](./DFT_E3.m)
 ```matlab
 
 clear all
