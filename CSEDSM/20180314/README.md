@@ -9,7 +9,7 @@
 
 ## DFT di un campione
 
-[aliasing.m](./aliasing.m)
+[DFT_E1g.m](./DFT_E1.m)
 ```matlab
 clear all
 close all
