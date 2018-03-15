@@ -7,7 +7,7 @@
   * Finestratura del segnale - errori e approssimazioni
   * *Zero-padding*
 
-![whiteboard](./CSEDSM_BN_FDD_20180314.jpg)
+![whiteboard](./CSEDSM_BN_I_20180314.jpg)
 
 ## DFT di un campione
 
