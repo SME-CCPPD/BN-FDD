@@ -11,7 +11,7 @@
 ## window DFT
 
 [Win1.m](./Win1.m)
-````matlal
+```matlal
 clear all
 close all
 
