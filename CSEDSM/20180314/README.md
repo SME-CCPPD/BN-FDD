@@ -1,4 +1,4 @@
-# Lezione del 31 gennaio 2018
+# Lezione del 14 marzo 2018
 
 ## Argomenti
 
@@ -11,7 +11,7 @@
 
 ## DFT di un campione
 
-[DFT_E1g.m](./DFT_E1.m)
+[DFT_E1.m](./DFT_E1.m)
 ```matlab
 clear all
 close all

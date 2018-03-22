@@ -9,7 +9,7 @@ dur = pc*nsamp;
 
 t = [0:pc:dur-pc]';
 
-tWinSize = 2000;;
+tWinSize = 2000;
 tWin = [floor(size(y, 1)/4) floor(size(y, 1)/4)+tWinSize-1];
 y = y*(1/max(y))*(10^(-(1/20))); 
 
