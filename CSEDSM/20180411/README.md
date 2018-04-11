@@ -22,7 +22,7 @@ y = cos(freq*2*pi*t);
 
 plot(t, y);
 ```
-![comp0.jpg](./com0.jpg)
+![comp0.jpg](./comp0.jpg)
 
 ## Cosinusoide 0 Hz + Cosiusoide a f Hz
 [comp0_1.m](./comp0_1.m)
