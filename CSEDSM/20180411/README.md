@@ -22,7 +22,7 @@ y = cos(freq*2*pi*t);
 
 plot(t, y);
 ```
-[comp0.jpg](./com0.jpg)
+![comp0.jpg](./com0.jpg)
 
 ## Cosinusoide 0 Hz + Cosiusoide a f Hz
 [comp0_1.m](./comp0_1.m)
@@ -41,7 +41,7 @@ y = (cos(freq*pi*2*t)+ cos(f1*2*pi*t))./2;
 
 plot(t, y);
 ```
-[comp0_1.jpg](./comp0_1.jpg)
+![comp0_1.jpg](./comp0_1.jpg)
 
 ## window DFT
 
@@ -91,7 +91,7 @@ hold off
 ```
 ![Win1.jpg](./Win1.jpg)
 
-## Window DFT (maggiore dutyCycle)
+# Window DFT  (aumento del dutyCycle)
 [Win2.m](./Win2.m)
 ![Win2.jpg](./Win2.jpg)
 
