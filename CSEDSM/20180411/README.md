@@ -6,8 +6,13 @@
   * Finestratura del segnale - errori e approssimazioni
   * *Zero-padding*
 
+## Lavagne
+
+![whiteboard](./CSEDSM_BN_20180411.jpg)
+
 ## Cosinusoide 0 Hz
-[comp0.m](./comp0.m)
+
+[`comp0.m`](./comp0.m)
 ```matlab
 
 fc = 1000;
@@ -25,7 +30,8 @@ plot(t, y);
 ![comp0.jpg](./comp0.jpg)
 
 ## Cosinusoide 0 Hz + Cosiusoide a f Hz
-[comp0_1.m](./comp0_1.m)
+
+[`comp0_1.m`](./comp0_1.m)
 ```matlab
 
 fc = 1000;
@@ -46,7 +52,7 @@ plot(t, y);
 ## window DFT
 
 [Win1.m](./Win1.m)
-```matlal
+```matlab
 
 clear all
 close all
