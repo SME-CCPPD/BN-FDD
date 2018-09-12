@@ -13,8 +13,8 @@
 
 ## Lavagne
 
-![whiteboard 1](https://photos.app.goo.gl/PUdLBiJp2dCu6JKT6)
+![whiteboard 1](./BN_IM_2018-09-12_11.48.33_1.jpg)
 
-![whiteboard 2](https://photos.app.goo.gl/1KgW61zp7uMdPfiz5)
+![whiteboard 2](./BN_IM_2018-09-12_11.48.33_2.jpg)
 
-![whiteboard 3](https://photos.app.goo.gl/aNzGArjWAbknJDgJA)
+![whiteboard 3](./BN_IM_2018-09-12_11.48.33_3.jpg)
