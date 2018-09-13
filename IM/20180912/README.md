@@ -2,7 +2,7 @@
 
 ## Argomenti
 
-* Ripasso delle tecniche di sintesi (se necessario):
+* Ripasso delle tecniche di sintesi:
   * sintesi additiva
   * modulazione di frequenza
   * modulazione ad anello (solo introduzione)
